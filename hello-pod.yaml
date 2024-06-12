@@ -26,6 +26,3 @@ spec:
     - effect: NoSchedule
       key: nautilus.io/csu-tide
       operator: Exists
-    - effect: NoSchedule
-      key: nautilus.io/sdsu-fix
-      operator: Exists
